@@ -39,15 +39,6 @@ Currently interning at **Huawei MRC (Trustworthy Tech Lab)** on **LLM data quali
 
 ---
 
-## Tech Stack of This Blog
-
-- **Framework**: [Jekyll](https://jekyllrb.com/) + [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy)  
-- **Hosting**: GitHub Pages  
-- **Language**: Markdown  
-- **Tools**: VS Code, Git, Ubuntu  
-
----
-
 ## Next Step
 
 Stay tuned for upcoming posts:
